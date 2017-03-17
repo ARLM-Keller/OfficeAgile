@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfficeAgileLib", "OfficeAgileLib\OfficeAgileLib.csproj", "{861C1E9A-AD39-456E-8BE1-4020520B7354}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfficeAgileTest", "OfficeAgileTest\OfficeAgileTest.csproj", "{94C7932F-26E6-4B7F-A755-1CC6281C1FA9}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs03
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = OfficeAgileLib\\OfficeAgileLib.csproj
+		SccProjectName1 = OfficeAgileLib
+		SccLocalPath1 = OfficeAgileLib
+		SccProjectUniqueName2 = OfficeAgileTest\\OfficeAgileTest.csproj
+		SccProjectName2 = OfficeAgileTest
+		SccLocalPath2 = OfficeAgileTest
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{861C1E9A-AD39-456E-8BE1-4020520B7354}.Debug|x86.ActiveCfg = Debug|x86
+		{861C1E9A-AD39-456E-8BE1-4020520B7354}.Debug|x86.Build.0 = Debug|x86
+		{861C1E9A-AD39-456E-8BE1-4020520B7354}.Release|x86.ActiveCfg = Release|x86
+		{861C1E9A-AD39-456E-8BE1-4020520B7354}.Release|x86.Build.0 = Release|x86
+		{94C7932F-26E6-4B7F-A755-1CC6281C1FA9}.Debug|x86.ActiveCfg = Debug|x86
+		{94C7932F-26E6-4B7F-A755-1CC6281C1FA9}.Debug|x86.Build.0 = Debug|x86
+		{94C7932F-26E6-4B7F-A755-1CC6281C1FA9}.Release|x86.ActiveCfg = Release|x86
+		{94C7932F-26E6-4B7F-A755-1CC6281C1FA9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
